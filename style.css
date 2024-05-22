@@ -146,13 +146,4 @@ body {
 .comment:hover {
   background-color: var(--clr-primary2-grey-light1);
 }
-
-
-@media (max-width: 48em) {
-  body::before {
-    
-  }
-}
-
 /* *************** */
-
